@@ -20,6 +20,6 @@ pip3 install requests beautifulsoup4 colorama
 
 ## Usage
 ```bash
-git clone https://github.com/noob-hacker572/Joomla-BruteForce.git
+git clone https://github.com/Boon-Rekcah/Joomla-BruteForce.git
 python3 joomla_brute.py
 ```
